@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_notes.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\action_notes.xml"
+    },
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actions_archive_delete.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\actions_archive_delete.xml"
+    },
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_detail_note.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\menu_detail_note.xml"
+    },
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_notes.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\menu_notes.xml"
+    },
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actions_image_selection.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\actions_image_selection.xml"
+    },
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\wsAndroid\\PersonalNotes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_trash_empty.xml",
+        "source": "C:\\wsAndroid\\PersonalNotes\\app\\src\\main\\res\\menu\\menu_trash_empty.xml"
+    }
+]
